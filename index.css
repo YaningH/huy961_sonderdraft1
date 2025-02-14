@@ -45,7 +45,7 @@ body {
     width: 1066px;
     height: 296px;
     color: #22223B;
-    font-family: Josefin Sans, var(--default-font-family);
+    font-family: Arial, Helvetica, sans-serif, var(--default-font-family);
     font-size: 300px;
     font-weight: 400;
     line-height: 296px;
