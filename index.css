@@ -288,7 +288,7 @@ body {
     height: 61px;
     top: 0;
     left: 0;
-    background: #000000;
+    background: #22223B;
     z-index: 4;
 }
 .wrapper-5 {
@@ -306,7 +306,7 @@ body {
     flex-basis: auto;
     position: relative;
     height: 48px;
-    color: #000000;
+    color: #22223B;
     font-family: Jomhuria, var(--default-font-family);
     font-size: 48px;
     font-weight: 400;
